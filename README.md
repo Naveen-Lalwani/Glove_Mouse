@@ -4,5 +4,5 @@ The repository contains simple code to implement a wired glove mouse.
 
 I have made the mouse wireless using Bluetooth module HC-05 and added more flexibility and functionality by adding Windows shortcut keys using capacitive touch sensors on finger tips.
 
-Here is a link to the demo of the wired glove mouse.
+Here is a link to the demo of the wired glove mouse:
 https://youtu.be/lgs1AReQ_y4
